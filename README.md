@@ -34,3 +34,4 @@ In conclusion, this weather web app offers a polished user experience, valuable 
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a97c64ef-45f9-4a85-9a02-ad814d110705)
